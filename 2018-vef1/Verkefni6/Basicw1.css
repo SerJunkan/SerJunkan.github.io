@@ -1,0 +1,78 @@
+html{
+    background-color: black;
+}
+
+body{
+    background-color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    font-family: fantasy;
+}
+
+.Pclass1{
+    text-align: center;
+    color: white;
+}
+
+.Pclass2{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+
+.h1class{
+    background-color: black;
+    color:white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.interface{
+    padding: 20px;
+    text-align: center;
+}
+
+.interface2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    padding-bottom: 50px;
+    font-family: fantasy;
+}
+
+.abtext{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.abtext2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    color: black
+}
+
+
+/* non working css */
+/*----------------------------------------*/
+
+.mapouter{
+    text-align:center;
+    height:500px;
+    width:600px;
+}
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+    height:500px;
+    width:600px;
+}
+
+/*----------------------------------------*/
