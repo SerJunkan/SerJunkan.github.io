@@ -24,4 +24,6 @@
     git branch
     is a way to committ files to a certain branch rather then copy between directories
     (as for the use of those commands working in harmony its a solid way to save your commitments and allowing you to backup if any mistakes are made.)
+4. Hvað er útgáfustýring (Version Control)?
+    its a funcion that allows you to go back and recover previus versions of files
     
