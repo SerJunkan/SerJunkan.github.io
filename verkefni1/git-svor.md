@@ -26,4 +26,5 @@
     (as for the use of those commands working in harmony its a solid way to save your commitments and allowing you to backup if any mistakes are made.)
 4. Hvað er útgáfustýring (Version Control)?
     its a funcion that allows you to go back and recover previus versions of files
-    
+5. Hverjir eru helstu kostir við að nota GIT?
+    its the fact that it supports version control and that it establishes connection between git and github
