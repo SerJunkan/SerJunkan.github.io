@@ -1,4 +1,5 @@
-# Git svör
+# Git svör 
+#Þetta er breytann hahahahahahahaha
 
 1. Hvað gera eftirfarandi Linux skipanir?
     cd -
