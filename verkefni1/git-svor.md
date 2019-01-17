@@ -28,3 +28,5 @@
     its a funcion that allows you to go back and recover previus versions of files
 5. Hverjir eru helstu kostir við að nota GIT?
     its the fact that it supports version control and that it establishes connection between git and github
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+    every time you reach a checkpoint in your project you should commit so you dont lose any important info regarding the project
