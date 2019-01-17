@@ -30,3 +30,6 @@
     its the fact that it supports version control and that it establishes connection between git and github
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
     every time you reach a checkpoint in your project you should commit so you dont lose any important info regarding the project
+7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+    when talking about working dierctory in git, the git is saying that the admin/user is working in a specific directory,
+    and when git talks about a staging area it is talking about the area where all the admin/user work takes place
