@@ -1,4 +1,7 @@
-# Git svör
+---
+layout: default
+title: Git svör
+---
 
 1. Hvað gera eftirfarandi Linux skipanir?
     cd -
